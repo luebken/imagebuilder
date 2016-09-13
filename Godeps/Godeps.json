@@ -140,7 +140,7 @@
 		},
 		{
 			"ImportPath": "github.com/golang/glog",
-			"Rev": "335da9dda11408a34b64344f82e9c03779b71673"
+			"Rev": "23def4e6c14b4da8ac2ed8007337bc5eb5007998"
 		}
 	]
 }
